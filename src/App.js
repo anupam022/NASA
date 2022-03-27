@@ -39,7 +39,7 @@ function App() {
     toast.success('NASA HACKED',{position: toast.POSITION.TOP_CENTER})
     toast.info('NASA HACKED',{position: toast.POSITION.TOP_RIGHT})
     toast.warn('NASA HACKED',{position: toast.POSITION.BOTTOM_LEFT})
-    toast.erro('NASA HACKED',{position: toast.POSITION.BOTTOM_RIGHT})
+    toast.error('NASA HACKED',{position: toast.POSITION.BOTTOM_RIGHT})
     toast('NASA HACKED',{position: toast.POSITION.BOTTOM_CENTER})
   }
   const useViewport = () => {
